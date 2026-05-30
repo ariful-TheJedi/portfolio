@@ -1,26 +1,118 @@
 @import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* =========================
+   LIGHT THEME
+========================= */
+
+html {
+  scroll-behavior: smooth;
+}
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fbf8f1;
+  --surface: #E8E1D4;
+  --card: #FFFFFF;
+
+  --bronze: #9A6A2F;
+  --maroon: #761010;
+
+  --marble: #F5EFE4;
+
+
+  --text: #1a1411;
+  --muted: #493f35;
+  --border: #D4C5B4;
+
 }
 
-@theme inline {
+/* =========================
+   DARK THEME
+========================= */
+
+.dark {
+  --background: #0F0B0A;
+  --surface: #1B1512;
+  --card: #231C18;
+
+  --bronze: #B8893C;
+  --maroon: #6E1F28;
+
+  --marble: #E8E1D4;
+
+  --text: #F4E8D0;
+  --muted: #B8AA95;
+  --border: #3A2C24;
+}
+
+/* =========================
+   TAILWIND THEME TOKENS
+========================= */
+
+@theme {
   --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --color-surface: var(--surface);
+  --color-card: var(--card);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-bronze: var(--bronze);
+  --color-maroon: var(--maroon);
+
+  --color-marble: var(--marble);
+
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+
+
+  --font-primary: "Inter", serif;
+  --font-secondary:"Marcellus", serif;
+  --font-heading:"Cinzel", serif;
 }
 
 body {
   background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  color: var(--text);
+}
+
+.main-container{
+  @apply max-w-7xl mx-auto px-6 md:px-8 lg:px-16;
+}
+
+
+.body-text {
+  @apply text-sm md:text-base lg:text-lg xl:text-lg font-normal text-muted;
+
+  /* Better readability & composition */
+  @apply leading-7 md:leading-8 tracking-[0.01em];
+}
+
+
+/* floating animation */
+.warrior-float-wrapper {
+  display: inline-flex;
+  will-change: transform;
+}
+
+@keyframes warriorFloat {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.warrior-floating {
+  animation: warriorFloat 3.5s ease-in-out infinite;
+}
+
+.warrior-floating:hover {
+  animation-play-state: paused;
 }

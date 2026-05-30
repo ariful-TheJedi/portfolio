@@ -1,0 +1,71 @@
+{
+  "services": {
+    "sectionTitle": "My Services",
+    "subtitle": "Areas of Interest",
+    "items": [
+      {
+        "title": "Full-Stack Web Development",
+        "description": "Building scalable, modern, and high-performance web applications from frontend to backend.",
+        "features": [
+          "Responsive and interactive UI/UX",
+          "Secure backend architecture & APIs",
+          "Database design and optimization",
+          "Authentication, payment, and dashboard systems",
+          "Scalable solutions using modern technologies"
+        ]
+      },
+      {
+        "title": "Mobile App Development",
+        "description": "Turn your idea into a sleek, user-friendly mobile application.",
+        "features": [
+          "Native & cross-platform apps (iOS & Android)",
+          "Intuitive UI/UX focused on user engagement",
+          "Features like payments, notifications, offline support, and more",
+          "App Store & Google Play ready"
+        ]
+      },
+      {
+        "title": "Custom WordPress Development",
+        "description": "Professional and high-performance WordPress solutions beyond basic themes.",
+        "features": [
+          "Custom themes and plugins built from scratch",
+          "WooCommerce stores with advanced functionality",
+          "Speed optimization, security hardening, and scalability",
+          "Easy-to-manage websites for non-technical clients"
+        ]
+      },
+      {
+        "title": "Web Scraping & Automation",
+        "description": "Save time and unlock data with intelligent automation.",
+        "features": [
+          "Custom web scrapers for any website or platform",
+          "Automated data collection, monitoring, and reporting",
+          "Bots and scripts that handle repetitive tasks",
+          "Reliable, ethical, and well-structured automation solutions"
+        ]
+      },
+      {
+        "title": "AI Integration & Intelligent Systems",
+        "description": "Supercharge your business with Artificial Intelligence.",
+        "features": [
+          "AI chatbot and assistant integration",
+          "LLM/API integration (GPT, Gemini, etc.)",
+          "AI-powered automation workflows",
+          "Smart search and recommendation systems",
+          "AI features tailored to business needs"
+        ]
+      },
+      {
+        "title": "Frontend Development",
+        "description": "Crafting modern, responsive, and visually engaging user interfaces with exceptional user experiences.",
+        "features": [
+          "Pixel-perfect & responsive design",
+          "Figma to high-quality code",
+          "Smooth animations and interactions",
+          "Fast, modern frameworks (React, Next.js, Tailwind)",
+          "Seamless backend & API integration"
+        ]
+      }
+    ]
+  }
+}

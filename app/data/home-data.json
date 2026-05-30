@@ -1,0 +1,13 @@
+{
+  "hero": {
+    "greeting":"Hello! I'm ",
+    "name": "Ariful Islam",
+    "title": "Software Engineer & AI Enthusiast",
+    "description": "I develop results-driven web and software applications, combining modern design and scalable engineering to deliver AI-powered, real-world solutions built for performance and maintainability.",
+    "cta": {
+      "text": "Download My CV",
+      "link": "https://drive.google.com/file/d/1z8xjK9Qx8xb3pQQx7MbSnxdpD8tD3YIS/view?usp=sharing",
+      "side-text":"Available for freelance & full-time work"
+    }
+  }
+}

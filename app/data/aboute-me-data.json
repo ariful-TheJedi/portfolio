@@ -1,0 +1,26 @@
+{
+  "badge": "Aboute Myself",
+  "sectionTitle": "My Software Development Career Journey",
+ "description": [
+  "As a Software Engineer with a degree in Computer Science and Engineering, I specialize in architecting scalable, high-performance web applications and enterprise systems.",
+  "My expertise spans creating immersive, interactive frontend experiences paired with robust backend development. I am deeply committed to clean architecture principles, ensuring every solution I build is maintainable, efficient, and aligned with complex business needs."
+],
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "link": "https://github.com/yourusername"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://linkedin.com/in/yourusername"
+    },
+    {
+      "name": "Discord",
+      "link": "https://discord.com/users/yourid"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://instagram.com/yourusername"
+    }
+  ]
+}

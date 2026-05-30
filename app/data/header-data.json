@@ -1,0 +1,28 @@
+{
+  "header": {
+    "logo":"/favicon.svg",
+    "navigation": [
+      {
+        "label": "Home",
+        "href": "/#home"
+      },
+      {
+        "label": "About Me",
+        "href": "/#about"
+      },
+      {
+        "label": "My Services",
+        "href": "/#services"
+      },
+      {
+        "label": "My Project",
+        "href": "/#projects"
+      }
+    ],
+    "mood":["day","night"],
+    "cta":{
+        "label": "Let's Talk",
+        "href": "/#contact"
+    }
+  }
+}

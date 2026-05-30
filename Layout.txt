@@ -1,0 +1,70 @@
+
+
+=>main content container: max-w-7xl(1280px if 1rem = 16px)
+
+=========>>Font Size<<=============
+| Typography       | sm         | md             | lg            | xl             | Weight           |
+| ---------------- | ---------- | -------------- | ------------- | -------------- | ---------------- |
+| Largest Title    | `text-4xl` | `md:text-5xl`  | `lg:text-6xl` | `xl:text-7xl`  | `font-extrabold` |
+| Heading          | `text-3xl` | `md:text-4xl`  | `lg:text-5xl` | `xl:text-5xl`  | `font-bold`      |
+| Sub Heading      | `text-xl`  | `md:text-2xl`  | `lg:text-3xl` | `xl:text-3xl`  | `font-semibold`  |
+| Thin Sub Heading | `text-lg`  | `md:text-xl`   | `lg:text-xl`  | `xl:text-2xl`  | `font-light`     |
+| Body Text        | `text-sm`  | `md:text-base` | `lg:text-lg`  | `xl:text-lg`   | `font-normal`    |
+| Small Text       | `text-xs`  | `md:text-sm`   | `lg:text-sm`  | `xl:text-base` | `font-medium`    |
+
+
+
+===============>>Gaps<<===========
+| Purpose | sm   | md   | lg   | xl   |
+| ------- | ---- | ---- | ---- | ---- |
+| XS      | `4`  | `4`  | `4`  | `4`  |
+| SM      | `6`  | `6`  | `6`  | `8`  |
+| MD      | `8`  | `8`  | `8`  | `10` |
+| LG      | `12` | `12` | `16` | `16` |
+| XL      | `16` | `20` | `24` | `32` |
+
+
+text-lg md:text-xl lg:text-xl xl:text-2xl font-light` 
+
+
+===>>Font Family
+Cinzel: for cinematic hero typography(Hero title)
+Marcellus: for elegant section headings(section heading)
+Inter: for clean modern UI readability(body,desc)
+
+source:
+https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;800&family=Inter:wght@300;400;500;600;700&family=Marcellus&display=swap
+
+
+===>>colors
+//dark theme
+colors: {
+  background: "#0F0B0A",
+  surface: "#1B1512",
+  card: "#231C18",
+
+  bronze: "#B8893C",
+  maroon: "#6E1F28",
+
+  marble: "#E8E1D4",
+
+  text: "#F4E8D0",
+  muted: "#B8AA95",
+  border: "#3A2C24",
+}
+
+//light theme
+colors: {
+  background: "#F5EFE4",
+  surface: "#E8E1D4",
+  card: "#FFFFFF",
+
+  bronze: "#9A6A2F",
+  maroon: "#7A2630",
+
+  marble: "#F5EFE4",
+
+  text: "#2A211B",
+  muted: "#6B5B4B",
+  border: "#D4C5B4",
+}

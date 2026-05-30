@@ -1,0 +1,97 @@
+{
+  "projects": {
+    "sectionTitle": "Some of My Previous Worked Projects",
+    "subtitle": "Projects",
+    "items": [
+      {
+        "title": "Ontenet Digital Ltd. — Agency Website",
+        "description": "A modern full-stack agency website built with scalable architecture, responsive design, smooth animations, and optimized performance.",
+        "bgImg":"https://i.pinimg.com/1200x/7a/2f/63/7a2f63e25752af1b04e5b6328ac7a908.jpg",
+        "technologies": {
+          "frontend": [
+            "Next.js",
+            "Tailwind CSS",
+            "Framer Motion"
+          ],
+          "backend": [
+            "Next.js"
+          ],
+          "database": [
+            "PostgreSQL"
+          ]
+        },
+        "cta": {
+          "text": "Visit the Site",
+          "href": "https://ontenet.digital"
+        }
+      },
+      {
+        "title": "Doctor Portfolio Website — Transplant Nephrologist",
+        "description": "A modern and SEO-friendly personal portfolio website focused on performance and responsive design.",
+         "bgImg":"https://i.pinimg.com/1200x/6d/4d/99/6d4d99798555ad9b104aa36a108d2f82.jpg",
+        "technologies": {
+          "frontend": [
+            "Next.js",
+            "Custom CSS"
+          ],
+          "backend": [
+            "WordPress REST API"
+          ]
+        },
+        "cta": {
+          "text": "Visit the Site",
+          "href": "https://www.drabdurrazzak.com"
+        }
+      },
+      {
+        "title": "News & Media Platform",
+        "description": "A dynamic full-stack news platform with real-time updates, finance data, weather information, and e-commerce functionality.",
+         "bgImg":"https://i.pinimg.com/1200x/2e/f4/ea/2ef4ea0ebf1ba97b5ea7efdd30cd789a.jpg",
+        "technologies": {
+          "frontend": [
+            "Next.js",
+            "Tailwind CSS",
+            "GSAP",
+            "Framer Motion"
+          ],
+          "backend": [
+            "Laravel"
+          ],
+          "database": [
+            "MariaDB",
+            "Firebase"
+          ]
+        },
+        "cta": {
+          "text": "Read More",
+          "href": "https://github.com/ariful-TheJedi/laravel-next-newplatform"
+        }
+      },
+      {
+        "title": "Bangla Word Sense Disambiguation (WSD) System",
+         "bgImg":"https://i.pinimg.com/1200x/4a/14/0b/4a140b5c2d311f593b2a86933d2adedf.jpg",
+        "description": "An AI-powered Bangla NLP system for contextual word meaning detection using transformer-based language models.",
+        "technologies": {
+          "AI Model": [
+            "BERT",
+            "Hugging Face Transformers"
+          ],
+          "backend": [
+            "Flask API"
+          ],
+          "language": [
+            "Python"
+          ]
+        },
+        "cta": {
+          "text": "Read More",
+          "href": "https://github.com/ariful-TheJedi/bangla-wsd"
+        }
+      }
+    ],
+    "moreProjects": {
+      "text": "More Projects",
+      "href": "/all-repo"
+    }
+  }
+}

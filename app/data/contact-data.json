@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "sectionTitle": "Contact Me",
+    "heading": "Let’s Build Something Meaningful",
+    "description": "Have a project idea or business challenge? I’m here to help turn your vision into a modern, scalable, and impactful digital solution.",
+    "form": {
+      "fields": [
+        {
+          "label": "Name",
+          "type": "text",
+          "placeholder": "Enter your full name"
+        },
+        {
+          "label": "Email",
+          "type": "email",
+          "placeholder": "Enter your email address"
+        },
+        {
+          "label": "Message",
+          "type": "textarea",
+          "placeholder": "Tell me about your project, goals, or idea…"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Send",
+          "type": "submit"
+        },
+        {
+          "text": "Email Personally",
+          "href": "mailto:arifulthejedi@gmail.com"
+        }
+      ]
+    }
+  }
+}

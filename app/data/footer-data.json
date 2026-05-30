@@ -1,0 +1,37 @@
+{
+  "footer": {
+    "links": [
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy-policy"
+      },
+      {
+        "label": "Cookie Policy",
+        "href": "/cookie-policy"
+      }
+    ],
+    "copyright": "© 2025. All rights reserved by Ariful Islam.",
+    "socials": [
+      {
+        "platform": "LinkedIn",
+        "href": "https://www.linkedin.com/in/arifulthejedi"
+      },
+      {
+        "platform": "GitHub",
+        "href": "https://github.com/ariful-TheJedi"
+      },
+      {
+        "platform": "Email",
+        "href": "mailto:arifulthejedi@email.com"
+      },
+      {
+        "platform": "Discord",
+        "href": "#"
+      },
+      {
+        "platform": "WhatsApp",
+        "href": "tel:+8801782368302"
+      }
+    ]
+  }
+}

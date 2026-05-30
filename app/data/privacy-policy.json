@@ -1,0 +1,95 @@
+{
+  "title": "Privacy Policy",
+  "lastUpdated": "May 30, 2026",
+  "introduction": "This Privacy Policy explains how I collect, use, store, and protect information when you visit my website, contact me, or engage my freelance software development services. By using this website, you agree to the practices described in this policy.",
+  "sections": [
+    {
+      "title": "Information I Collect",
+      "content": [
+        "I may collect personal information that you voluntarily provide, including your name, email address, company name, phone number, project requirements, and any information submitted through contact forms, email communications, or project inquiries.",
+        "I may automatically collect certain technical information, such as your IP address, browser type, device information, operating system, referral source, and website usage data."
+      ]
+    },
+    {
+      "title": "How I Use Your Information",
+      "content": [
+        "To respond to inquiries and communicate regarding potential or ongoing projects.",
+        "To provide software development, consulting, maintenance, and related freelance services.",
+        "To improve website performance, user experience, and service quality.",
+        "To maintain website security and prevent unauthorized access or misuse.",
+        "To comply with legal obligations when required."
+      ]
+    },
+    {
+      "title": "Project and Client Data",
+      "content": [
+        "Any project-related information, source code, business documents, credentials, or proprietary materials shared by clients are treated as confidential.",
+        "Client data is accessed only when necessary to perform agreed-upon services.",
+        "Project information will not be shared with third parties without client authorization unless required by law."
+      ]
+    },
+    {
+      "title": "Cookies and Analytics",
+      "content": [
+        "This website may use cookies or similar technologies to enhance functionality and improve user experience.",
+        "Analytics tools may be used to understand visitor behavior and website performance. These tools generally collect aggregated and non-identifiable information."
+      ]
+    },
+    {
+      "title": "Data Retention",
+      "content": [
+        "Personal and project-related information is retained only for as long as necessary to fulfill the purposes outlined in this policy, comply with legal requirements, resolve disputes, or maintain business records.",
+        "When information is no longer required, reasonable steps will be taken to securely delete or anonymize it."
+      ]
+    },
+    {
+      "title": "Information Sharing",
+      "content": [
+        "Personal information is not sold, rented, or traded to third parties.",
+        "Information may be shared with trusted service providers when necessary to operate the website, communicate with clients, process payments, or deliver services.",
+        "Information may also be disclosed if required by applicable laws, regulations, or legal processes."
+      ]
+    },
+    {
+      "title": "Data Security",
+      "content": [
+        "Reasonable administrative, technical, and organizational safeguards are implemented to protect information from unauthorized access, disclosure, alteration, or destruction.",
+        "While every effort is made to secure information, no internet-based system can guarantee absolute security."
+      ]
+    },
+    {
+      "title": "Third-Party Links and Services",
+      "content": [
+        "This website may contain links to third-party websites, platforms, or services.",
+        "I am not responsible for the privacy practices, content, or security measures of external websites and encourage users to review their privacy policies."
+      ]
+    },
+    {
+      "title": "Your Rights",
+      "content": [
+        "Depending on your jurisdiction, you may have the right to request access to your personal information, correct inaccurate information, request deletion of your data, or object to certain processing activities.",
+        "Requests regarding personal information can be submitted through the contact information provided on this website."
+      ]
+    },
+    {
+      "title": "Children's Privacy",
+      "content": [
+        "This website and freelance services are not intended for individuals under the age of 13.",
+        "I do not knowingly collect personal information from children."
+      ]
+    },
+    {
+      "title": "Changes to This Privacy Policy",
+      "content": [
+        "This Privacy Policy may be updated periodically to reflect changes in business practices, legal requirements, or website functionality.",
+        "Any updates will be published on this page with a revised last updated date."
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "content": [
+        "If you have any questions regarding this Privacy Policy or how your information is handled, please contact me through the contact form or the communication channels provided on this website."
+      ]
+    }
+  ]
+}
